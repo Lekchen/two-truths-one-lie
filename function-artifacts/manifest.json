@@ -1,0 +1,7 @@
+[
+  {
+    "name": "game",
+    "runtime": "js",
+    "entryFilename": "___netlify-entry-point.mjs"
+  }
+]

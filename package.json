@@ -1,0 +1,7 @@
+{
+ "name":"two-truths-and-a-lie-netlify","version":"1.0.0","private":true,"type":"module",
+ "engines":{"node":">=22"},
+ "scripts":{"build":"node scripts/build.mjs","test":"node --test tests/netlify.test.mjs && node tests/game.test.mjs","verify":"npm run build && npm test"},
+ "dependencies":{"@netlify/blobs":"11.1.4"},
+ "devDependencies":{"@netlify/zip-it-and-ship-it":"16.3.0","esbuild":"0.25.12"}
+}
