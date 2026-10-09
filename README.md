@@ -2,6 +2,10 @@
 
 A multiplayer party game with an anime-inspired design, mobile-friendly screens, private room codes, and live scoring.
 
+## Play the game
+
+[Play Two Truths & One Lie](https://jovial-hummingbird-0f87aa.netlify.app/)
+
 ## AI disclosure
 
 I used ChatGPT/Codex to generate all of this project's code, visual design, tests, and documentation. I provided the game idea, requirements, and feedback and used AI to implement and revise them. This is an AI-generated project, and I do not claim to have written the implementation independently.
