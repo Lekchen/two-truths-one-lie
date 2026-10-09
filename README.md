@@ -2,6 +2,14 @@
 
 A multiplayer party game with an anime-inspired design, mobile-friendly screens, private room codes, and live scoring.
 
+## AI disclosure
+
+I used ChatGPT/Codex to generate all of this project's code, visual design, tests, and documentation. I provided the game idea, requirements, and feedback and used AI to implement and revise them. This is an AI-generated project, and I do not claim to have written the implementation independently.
+
+## Front-page preview
+
+![Two Truths and One Lie front page](screenshots/front-page.jpeg)
+
 ## Features
 
 - Rooms for 2–8 players, with up to 2 viewers
